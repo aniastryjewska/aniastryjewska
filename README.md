@@ -1,4 +1,5 @@
-Hi, I’m Ania! 🤸‍
+**Hi, I’m Ania! 🤸‍**
 
-I started out my career as a researcher of ancient Chinese manuscripts...
-... and here I am 10 years later, a budding full stack dev 🐣
+turned from a researcher of ancient Chinese manuscripts...
+
+... to a budding full stack dev 🐣
