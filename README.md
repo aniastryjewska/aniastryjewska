@@ -1,13 +1,11 @@
 <h1>Hi, I’m Ania! 🤸‍</h1>
 <img src="./images/thinking.png">
 
-<h3>researcher of ancient Chinese manuscripts... ... turned full stack dev 🐣 </h3>
-
+<h3>researcher of ancient Chinese manuscripts... turned full stack dev 🐣 </h3>
 
 
 <hr>
 <h3> ❤️ tech for social good </h3>
-<br>
 <br>
  🙌  social justice: access to education <br>
  <br>
