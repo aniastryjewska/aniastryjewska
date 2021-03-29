@@ -18,8 +18,8 @@ I'm interested in  projects related to:
 
 <h3> 🛠 Languages and tools: </h3>
 
-<img align="left" style="margin-bottom: 5px" alt="JavaScript" height=20px src="./images/javascript.svg"> 
-<img align="left" style="margin-bottom: 5px" alt="CSS" height=20px src="./images/css3.svg"> 
+<img align="left" style="margin-bottom: 5px" alt="JavaScript" height=40px src="./images/javascript.svg"> 
+<img align="left" style="margin-bottom: 5px" alt="CSS" height=40px src="./images/css3.svg"> 
 <img align="left" style="margin-bottom: 5px" alt="HTML" height=20px src="./images/html5.svg"> 
 <img align="left" style="margin-bottom: 5px" alt="React" height=20px src="./images/react.svg"> 
 <img align="left" style="margin-bottom: 5px" alt="NodeJS" height=20px src="./images/node-js.svg"> 
