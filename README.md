@@ -1,5 +1,5 @@
 <h1>Hi, I’m Ania! 🤸‍</h1>
-<img src="./images/thinking.png">
+<img src="./images/thinking.png" height=200px>
 
 originally a researcher of ancient Chinese manuscripts...
 
