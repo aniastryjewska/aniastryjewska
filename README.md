@@ -7,15 +7,13 @@
 
 <hr>
 <h3> ❤️ tech for social good </h3>
-
-I'm interested in  projects related to:
 <br>
 <br>
- 🙌  social justice: equal opportunity and access to education <br>
+ 🙌  social justice: access to education <br>
  <br>
  🌏  sustainability <br>
  <br>
- 🔡  linguistics: endangered languages, language revitalisation
+ 🔡  endangered languages
 <hr>
 
 <h3> 🛠 Languages and tools: </h3>
