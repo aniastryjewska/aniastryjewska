@@ -1,4 +1,5 @@
 <h1>Hi, I’m Ania! 🤸‍</h1>
+<img src="./ania thinking.png">
 
 originally a researcher of ancient Chinese manuscripts...
 
