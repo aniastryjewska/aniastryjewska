@@ -6,10 +6,10 @@ originally a researcher of ancient Chinese manuscripts...
 
 <h3> ❤️ tech for social good </h3>
 I'm interested in  projects related to:
-
+<br>
 🙌 social justice: equal opportunity and access to education <br>
 🌏 sustainability <br>
-🔡 linguistics: minority languages, language revitalisation 
+🔡 linguistics: endangered languages, language revitalisation
 
 
 
