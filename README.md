@@ -4,7 +4,7 @@
 <img src="./images/thinking.png">
 
 <hr>
-<h3> ❤️ tech for social good </h3>
+<h3> ❤️ Tech for social good </h3>
 
  🙌  social justice: access to education <br>
  <br>
