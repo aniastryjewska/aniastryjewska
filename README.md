@@ -5,8 +5,9 @@ originally a researcher of ancient Chinese manuscripts...
 ... turned full stack dev 🐣
 
 <h3> ❤️ tech for social good </h3>
-<hr>
+
 I'm interested in  projects related to:
+<br>
 <br>
 🙌 social justice: equal opportunity and access to education <br>
 🌏 sustainability <br>
