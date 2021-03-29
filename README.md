@@ -1,5 +1,6 @@
 **Hi, I’m Ania! 🤸‍**
 
-turned from a researcher of ancient Chinese manuscripts...
+originally a researcher of ancient Chinese manuscripts...
 
-... to a budding full stack dev 🐣
+... turned full stack dev 🐣
+
