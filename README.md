@@ -26,5 +26,8 @@ I'm interested in  projects related to:
 <img align="left" style="margin-bottom: 5px" alt="MongoDB" height=40px src="./images/mongodb.svg"> 
 <img align="left" style="margin-bottom: 5px" alt="GitHub" height=40px src="./images/github.svg"> 
 <img align="left" style="margin-bottom: 5px" alt="Trello" height=40px src="./images/trello.svg"> 
+<img align="left" style="margin-bottom: 5px" alt="Jira" height=40px src="./images/jira.jpg"> 
 
-
+Currently learning: <br>
+<img align="left" style="margin-bottom: 5px" alt="Angular" height=40px src="./images/angular.png"> 
+<img align="left" style="margin-bottom: 5px" alt="TypeScript" height=40px src="./images/typescript.png"> 
