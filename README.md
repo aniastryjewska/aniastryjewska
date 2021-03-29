@@ -17,5 +17,5 @@ I'm interested in  projects related to:
 
 
 <h3> 🛠 Languages and tools: </h3>
-<img src="./images/github.svg" height=20px>
-<img src="./images/javascript.svg" height=20px>
+<img src="./images/github.svg" height=20px> <img src="./images/javascript.svg" height=20px>
+
