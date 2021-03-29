@@ -11,9 +11,11 @@
 I'm interested in  projects related to:
 <br>
 <br>
-<h3> 🙌 </h3> social justice: equal opportunity and access to education <br>
-<h3> 🌏 </h3> sustainability <br>
-<h3> 🔡 </h3> linguistics: endangered languages, language revitalisation
+ 🙌  social justice: equal opportunity and access to education <br>
+ <br>
+ 🌏  sustainability <br>
+ <br>
+ 🔡  linguistics: endangered languages, language revitalisation
 <hr>
 
 <h3> 🛠 Languages and tools: </h3>
