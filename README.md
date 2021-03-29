@@ -1,7 +1,9 @@
 <h1>Hi, I’m Ania! 🤸‍</h1>
-<img src="./images/thinking.png">
 
 <h3>researcher of ancient Chinese manuscripts... turned full stack dev 🐣 </h3>
+<img src="./images/thinking.png">
+
+
 
 
 <hr>
