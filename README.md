@@ -1,5 +1,5 @@
 <h1>Hi, I’m Ania! 🤸‍</h1>
-<img src="./ania thinking.png">
+<img src="./images/thinking.png">
 
 originally a researcher of ancient Chinese manuscripts...
 
@@ -17,4 +17,5 @@ I'm interested in  projects related to:
 
 
 <h3> 🛠 Languages and tools: </h3>
-
+<img src="./images/github.svg">
+<img src="./images/javascript.svg">
