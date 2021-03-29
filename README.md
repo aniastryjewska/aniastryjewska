@@ -1,20 +1,19 @@
 <h1>Hi, I’m Ania! 🤸‍</h1>
+
+<h3> researcher of ancient Chinese manuscripts... turned full stack dev 🐣 </h3>
 <img src="./images/thinking.png">
 
-originally a researcher of ancient Chinese manuscripts...
+<hr>
+<h3> ❤️ Tech for social good </h3>
 
-... turned full stack dev 🐣
-
-<h3> ❤️ tech for social good </h3>
-
-I'm interested in  projects related to:
-<br>
-<br>
-🙌 social justice: equal opportunity and access to education <br>
-🌏 sustainability <br>
-🔡 linguistics: endangered languages, language revitalisation
-
-
+ 🙌  social justice: access to education <br>
+ <br>
+ 🌏  sustainability <br>
+ <br>
+ ⚖️  mental health <br>
+ <br>
+ 🔡  endangered languages, language revitalisation
+<hr>
 
 <h3> 🛠 Languages and tools: </h3>
 
@@ -26,5 +25,10 @@ I'm interested in  projects related to:
 <img align="left" style="margin-bottom: 5px" alt="MongoDB" height=40px src="./images/mongodb.svg"> 
 <img align="left" style="margin-bottom: 5px" alt="GitHub" height=40px src="./images/github.svg"> 
 <img align="left" style="margin-bottom: 5px" alt="Trello" height=40px src="./images/trello.svg"> 
+<img align="left" style="margin-bottom: 5px" alt="Jira" height=40px src="./images/jira.jpg"> <br>
 
 
+<br> 
+<h5>Currently learning:</h5>
+<img align="left" style="margin-bottom: 5px" alt="Angular" height=40px src="./images/angular.png"> 
+<img align="left" style="margin-bottom: 5px" alt="TypeScript" height=40px src="./images/typescript.png"> 
