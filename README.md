@@ -4,10 +4,11 @@ originally a researcher of ancient Chinese manuscripts...
 
 ... turned full stack dev 🐣
 
-<br>
-I'm interested in:
->>> social justice, especially equal opportunity and access to education
->>> linguistics 
+<h3> ❤️ tech for social good </h3>
+I'm interested in (open source) projects related to:
+
+social justice, especially equal opportunity and access to education <br>
+>>> linguistics - 
 
 
 
