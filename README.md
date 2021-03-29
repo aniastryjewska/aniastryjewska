@@ -1,6 +1,6 @@
 <h1>Hi, I’m Ania! 🤸‍</h1>
 
-<h5> researcher of ancient Chinese manuscripts... turned full stack dev 🐣 </h5>
+<h3> researcher of ancient Chinese manuscripts... turned full stack dev 🐣 </h3>
 <img src="./images/thinking.png">
 
 <hr>
@@ -10,7 +10,9 @@
  <br>
  🌏  sustainability <br>
  <br>
- 🔡  endangered languages
+ ⚖️  mental health <br>
+ <br>
+ 🔡  endangered languages, language revitalisation
 <hr>
 
 <h3> 🛠 Languages and tools: </h3>
