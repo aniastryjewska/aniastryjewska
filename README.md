@@ -1,10 +1,20 @@
 <h1>Hi, I’m Ania! 🤸‍</h1>
 <img src="./images/thinking.png">
 
-originally a researcher of ancient Chinese manuscripts...
+**originally a researcher of ancient Chinese manuscripts...
 
-... turned full stack dev 🐣
+... turned full stack dev 🐣**
 
+<hr>
+<h3> ❤️ tech for social good </h3>
+
+I'm interested in  projects related to:
+<br>
+<br>
+🙌 social justice: equal opportunity and access to education <br>
+🌏 sustainability <br>
+🔡 linguistics: endangered languages, language revitalisation
+<hr>
 
 <h3> 🛠 Languages and tools: </h3>
 
